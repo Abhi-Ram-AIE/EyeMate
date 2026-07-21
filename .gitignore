@@ -1,0 +1,7 @@
+venv/
+eyemate-env/
+__pycache__/
+*.pyc
+*.mp3
+*.pt
+eyemate-ocr.json
